@@ -1,0 +1,17 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "description": "Example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.0",
+    "jsonwebtoken": "^5.7.0",
+    "lodash": "^4.11.0",
+    "mongoose": "^4.4.12",
+    "restify": "^4.0.4"
+  }
+}
